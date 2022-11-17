@@ -1,0 +1,8 @@
+python-dotenv==0.21.0
+py-cord[voice]==2.2.2
+SpeechRecognition==3.8.1
+gtts==2.2.4
+asyncio==3.4.3
+PYNaCl==1.5.0
+pydub==0.25.1
+happytransformer==2.4.1
